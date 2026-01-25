@@ -7,7 +7,7 @@ Complete guide for using Superpowers with Antigravity IDE.
 Tell Antigravity:
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/.antigravity/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/Roman-Blinkov/superpowers/refs/heads/main/.antigravity/INSTALL.md
 ```
 
 ## Manual Installation
@@ -23,12 +23,12 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 
 **Linux/macOS:**
 ```bash
-git clone https://github.com/obra/superpowers.git ~/.gemini/antigravity/superpowers
+git clone https://github.com/Roman-Blinkov/superpowers.git ~/.gemini/antigravity/superpowers
 ```
 
 **Windows (PowerShell):**
 ```powershell
-git clone https://github.com/obra/superpowers.git "$env:USERPROFILE\.gemini\antigravity\superpowers"
+git clone https://github.com/Roman-Blinkov/superpowers.git "$env:USERPROFILE\.gemini\antigravity\superpowers"
 ```
 
 #### 2. Copy Skills
@@ -124,5 +124,5 @@ Then re-copy the skills folder to your project.
 
 ## Getting Help
 
-- Report issues: https://github.com/obra/superpowers/issues
-- Main documentation: https://github.com/obra/superpowers
+- Report issues: https://github.com/Roman-Blinkov/superpowers/issues
+- Main documentation: https://github.com/Roman-Blinkov/superpowers

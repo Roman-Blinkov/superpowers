@@ -8,12 +8,12 @@ Antigravity IDE has native Skills support. Follow these steps to install superpo
 
 **Linux/macOS:**
 ```bash
-git clone https://github.com/obra/superpowers.git ~/.gemini/antigravity/superpowers
+git clone https://github.com/Roman-Blinkov/superpowers.git ~/.gemini/antigravity/superpowers
 ```
 
 **Windows:**
 ```powershell
-git clone https://github.com/obra/superpowers.git "$env:USERPROFILE\.gemini\antigravity\superpowers"
+git clone https://github.com/Roman-Blinkov/superpowers.git "$env:USERPROFILE\.gemini\antigravity\superpowers"
 ```
 
 ### 2. Copy skills to your project

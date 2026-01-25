@@ -17,11 +17,11 @@ There's a bunch more to it, but that's the core of the system. And because the s
 
 ## Sponsorship
 
-If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider [sponsoring my opensource work](https://github.com/sponsors/obra).
+If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider [sponsoring my opensource work](https://github.com/sponsors/Roman-Blinkov).
 
 Thanks! 
 
-- Jesse
+- Roman
 
 
 ## Installation
@@ -33,7 +33,7 @@ Thanks!
 In Claude Code, register the marketplace first:
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add Roman-Blinkov/superpowers-marketplace
 ```
 
 Then install the plugin from this marketplace:
@@ -51,7 +51,7 @@ Start a new session and ask Claude to help with something that would trigger a s
 Tell Codex:
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/.codex/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/Roman-Blinkov/superpowers/refs/heads/main/.codex/INSTALL.md
 ```
 
 **Detailed docs:** [docs/README.codex.md](docs/README.codex.md)
@@ -61,7 +61,7 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 Tell OpenCode:
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/.opencode/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/Roman-Blinkov/superpowers/refs/heads/main/.opencode/INSTALL.md
 ```
 
 **Detailed docs:** [docs/README.opencode.md](docs/README.opencode.md)
@@ -71,7 +71,7 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 Tell Antigravity:
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/.antigravity/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/Roman-Blinkov/superpowers/refs/heads/main/.antigravity/INSTALL.md
 ```
 
 **Detailed docs:** [docs/README.antigravity.md](docs/README.antigravity.md)
@@ -154,5 +154,5 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Issues**: https://github.com/obra/superpowers/issues
-- **Marketplace**: https://github.com/obra/superpowers-marketplace
+- **Issues**: https://github.com/Roman-Blinkov/superpowers/issues
+- **Marketplace**: https://github.com/Roman-Blinkov/superpowers-marketplace
